@@ -25,4 +25,4 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
   ![**original image**](https://github.com/atharva1608/sra_ip_practice/blob/master/ImageRotation/rotate.png)  
     
   > Rotating it by 50 degree -  
-  ![**rotated image**](https://github.com/atharva1608/sra_ip_practice/blob/master/ImageRotation/rotate.png)
+  ![**rotated image**](https://github.com/atharva1608/sra_ip_practice/blob/master/ImageRotation/rotationofimageoutput1.png)
