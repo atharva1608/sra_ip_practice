@@ -30,7 +30,9 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
   ## Task 2
   ### 2. Applying Kernel
   Blurring and sharpening the image by using kernel(3x3 filters).
-  |<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/blur.jpeg">|<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/filter.png">|
+  > Input Image -
+  ![**input image1**](https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/blur.jpeg)
+  ![**input image2**](https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/filter.png)
   > Blur and Sharpen image -
   ![**blur image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputblurimage.jpeg)
   ![**blur image2**](https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputblurimage1.jpeg)
