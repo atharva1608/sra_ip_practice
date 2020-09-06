@@ -28,7 +28,11 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
   ![**rotated image**](https://github.com/atharva1608/sra_ip_practice/blob/master/ImageRotation/rotationofimageoutput1.png)
   
   ## Task 2
-  ### 2. Applying Kernelshttps://github.com/atharva1608/sra_ip_practice/blob/master/ImageRotation/rotationofimageoutput1.png
+  ### 2. Applying Kernel
   Blurring and sharpening the image by using kernel(3x3 filters).
   |<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/blur.jpeg">|<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/filter.png">|
+  >- Blur Image of the given image
+  ![**blur image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputblurimage.jpeg)
+  ![**blur image2**](https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputblurimage1.jpeg)
+  ![**sharpen image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputsharpenimage.png)
   
