@@ -31,8 +31,41 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
   ### 2. Applying Kernel
   Blurring and sharpening the image by using kernel(3x3 filters).
   |<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/blur.jpeg">|<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/filter.png">|
-  >- Blur Image of the given image
+  > Blur and Sharpen image -
   ![**blur image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputblurimage.jpeg)
   ![**blur image2**](https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputblurimage1.jpeg)
   ![**sharpen image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputsharpenimage.png)
   
+  ## Task 3
+  ### 3. Edge Detection
+  1. Vertical Edge Detection is done by using vertical filter(3x3).
+  2. Horizongtal Edge Detction is done by using horizontal filter(3x3),
+  3. Sobel Edge Detection was done by using two filters sobelx and sobely and applying on the given image.
+  > Input Image -
+  ![**input image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Edge_detection/edge-detection.png)
+  
+  > Applying Sobel Edge Detector -
+  ![**output image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Edge_detection/outputedgedetectionsobel.png)
+  4. Canny Edge Detection: It basically consists of five steps- 1) Noise Reduction 2)Gradient Calculation 3)Non-maximum suppression 4)Double Threshold 5)Edge   Tracking Hysteresis
+  
+  ## Task 4
+  Applying Morphological Transformation Erosion and Dilation on the given image.
+  Erosion erodes away the boundaries of the object and used to diminsh the features of an image.
+  Dilation increases the object area and used to accentuate features.
+  > Input Image -
+  ![**input image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/morphological.png)
+  
+  > Erosion Image -
+  ![**erosion output**](https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/erosion.png)
+  
+  > Dilation Image -
+  ![**dilation image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/dilation.png)
+  
+  ## Task 5
+  In this case the blue colour ball is to be detcted from red,green and blue balls. Using cv2.cvtColor(frame, cv.COLOR_BGR2HSV) library the given image is changed   from BGR to HSV and the masking is done to detect blue color.
+ > Input Image -
+ ![**input image**](https://github.com/atharva1608/sra_ip_practice/blob/master/masking/mask.jpg)
+ 
+ > Blue Ball Detected -
+ ![**output image**](https://github.com/atharva1608/sra_ip_practice/blob/master/masking/masking_output.png)
+ 
