@@ -56,14 +56,10 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
   Applying Morphological Transformation Erosion and Dilation on the given image.
   Erosion erodes away the boundaries of the object and used to diminsh the features of an image.
   Dilation increases the object area and used to accentuate features.
-  > Input Image -
-  ![**input image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/morphological.png)
   
-  > Erosion Image -
-  ![**erosion output**](https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/erosion.png)
-  
-  > Dilation Image -
-  ![**dilation image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/dilation.png)
+  Input Image                      |  Erosion                |  Dilation
+:-------------------------:|:-------------------------:|:-------------------------:
+<img width="320" height="220" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/morphological.png">|<img width="320" height="220" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/erosion.png">|<img width="320" height="220" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Morphological_Transformation/dilation.png">
   
   ## Task 5
   In this case the blue colour ball is to be detcted from red,green and blue balls. Using cv2.cvtColor(frame, cv.COLOR_BGR2HSV) library the given image is changed   from BGR to HSV and the masking is done to detect blue color.
