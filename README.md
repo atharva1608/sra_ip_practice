@@ -79,6 +79,6 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
 ## Prerequisites
 * [Python](#python)
 ## Contributors
-* Atharva Alshi(#atharvaalshi)
+* [Atharva Sachitanand Alshi](#atharvaalshi)
 ## Acknowledgements
 * SRA VJTI
