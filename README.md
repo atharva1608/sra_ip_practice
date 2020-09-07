@@ -63,11 +63,10 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
   
   ## Task 5
   In this case the blue colour ball is to be detcted from red,green and blue balls. Using cv2.cvtColor(frame, cv.COLOR_BGR2HSV) library the given image is changed   from BGR to HSV and the masking is done to detect blue color.
- > Input Image -
- ![**input image**](https://github.com/atharva1608/sra_ip_practice/blob/master/masking/mask.jpg)
  
- > Blue Ball Detected -
- ![**output image**](https://github.com/atharva1608/sra_ip_practice/blob/master/masking/masking_output.png)
+ Input Image                      |  Blue Ball Detected
+:-------------------------:|:-------------------------:
+<img width="540" height="400" src="https://github.com/atharva1608/sra_ip_practice/blob/master/masking/mask.jpg">|<img width="540" height="400" src="https://github.com/atharva1608/sra_ip_practice/blob/master/masking/masking_output.png">
  
  ## Task 6
  Region of Image is obtained by numpy indexing.In this input image the foot ball is moved from one place to other place using numpy indexing.
