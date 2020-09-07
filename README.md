@@ -16,6 +16,8 @@
     * [Dilation](#dilation)
   * [Task 5](#task-5)
     * [Masking](#masking)
+  * [Task 6](#task-6)
+    * [Region of Image](#roi)
 ## About
 All the Image Processing tasks are done without using any opencv library unless mentioned in order to understand the basics of image processing.
 ## Task 1
