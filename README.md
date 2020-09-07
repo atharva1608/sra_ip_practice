@@ -20,8 +20,7 @@
     * [Region of Image](#roi)
 ## About
 All the Image Processing tasks are done without using any opencv library unless mentioned in order to understand the basics of image processing.For the rotation basically the rotation matrix is used.
-# Rotation Matrix- [cos(theta) -sin(theta)]
-#                  [sin(theta)  cos(theta)]
+  
 ## Task 1
 ### 1. Image Rotation
 Rotating the given image by any angle anticlockwise by using numpy and matplotlib library.Taking the rotation angle as the input from the user and rotate the given image.
@@ -34,6 +33,7 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
   ## Task 2
   ### 2. Applying Kernel
   Blurring and sharpening the image by using kernel(3x3 filters).
+  |<img width="100" height="100" src="https://giphy.com/gifs/blog-daniel-keypoints-i4NjAwytgIRDW">|
   |<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/blur.jpeg">|<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/filter.png">|
 |:---:|:---:|
 
