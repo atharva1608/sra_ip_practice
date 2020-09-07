@@ -73,4 +73,10 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
  > Blue Ball Detected -
  ![**output image**](https://github.com/atharva1608/sra_ip_practice/blob/master/masking/masking_output.png)
  
- >Find detailed output video [here](https://photos.app.goo.gl/EGuWSTebXgdqKd1S7)
+ ## Task 6
+ Region of Image is obtained by numpy indexing.In this input image the foot ball is moved from one place to other place using numpy indexing.
+ Figure 1                      |  Figure 2
+:-------------------------:|:-------------------------:
+<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/ROI/roi.jpg">|<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/ROI/roioutput.png">
+
+>Find detailed output video [here](https://photos.app.goo.gl/EGuWSTebXgdqKd1S7)
