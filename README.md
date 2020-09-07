@@ -19,7 +19,9 @@
   * [Task 6](#task-6)
     * [Region of Image](#roi)
 ## About
-All the Image Processing tasks are done without using any opencv library unless mentioned in order to understand the basics of image processing.
+All the Image Processing tasks are done without using any opencv library unless mentioned in order to understand the basics of image processing.For the rotation basically the rotation matrix is used.
+# Rotation Matrix- [cos(theta) -sin(theta)]
+#                  [sin(theta)  cos(theta)]
 ## Task 1
 ### 1. Image Rotation
 Rotating the given image by any angle anticlockwise by using numpy and matplotlib library.Taking the rotation angle as the input from the user and rotate the given image.
