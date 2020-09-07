@@ -23,10 +23,10 @@ All the Image Processing tasks are done without using any opencv library unless 
 ## Task 1
 ### 1. Image Rotation
 Rotating the given image by any angle anticlockwise by using numpy and matplotlib library.Taking the rotation angle as the input from the user and rotate the given image.
-> Original Input image -  
+**Original Input image**  
   ![**original image**](https://github.com/atharva1608/sra_ip_practice/blob/master/ImageRotation/rotate.png)  
     
-  > Rotating it by 50 degree -  
+ **Rotating it by 50 degree**  
   ![**rotated image**](https://github.com/atharva1608/sra_ip_practice/blob/master/ImageRotation/rotationofimageoutput1.png)
   
   ## Task 2
@@ -38,7 +38,7 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
 **Output**
 |<img width="350" height="400" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputblurimage.jpeg">|<img width="350" height="400" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputblurimage1.jpeg">|<img width="350" height="400" src="https://github.com/atharva1608/sra_ip_practice/blob/master/Applying_Kernels/outputsharpenimage.png">|
 |:---:|:---:|:---:|
-|Box Filter|Gaussian Filter|Sharpen|
+|Gaussian Filter|Box Filter|Sharpen|
 
   
   ## Task 3
@@ -46,10 +46,10 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
   1. Vertical Edge Detection is done by using vertical filter(3x3).
   2. Horizongtal Edge Detction is done by using horizontal filter(3x3),
   3. Sobel Edge Detection was done by using two filters sobelx and sobely and applying on the given image.
-  > Input Image -
+   **Input Image**
   ![**input image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Edge_detection/edge-detection.png)
   
-  > Applying Sobel Edge Detector -
+  **Applying Sobel Edge Detector**
   ![**output image**](https://github.com/atharva1608/sra_ip_practice/blob/master/Edge_detection/outputedgedetectionsobel.png)
   4. Canny Edge Detection: It basically consists of five steps- 1) Noise Reduction 2)Gradient Calculation 3)Non-maximum suppression 4)Double Threshold 5)Edge   Tracking Hysteresis
   
