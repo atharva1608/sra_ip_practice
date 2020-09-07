@@ -75,4 +75,10 @@ Rotating the given image by any angle anticlockwise by using numpy and matplotli
 :-------------------------:|:-------------------------:
 <img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/ROI/roi.jpg">|<img width="640" height="450" src="https://github.com/atharva1608/sra_ip_practice/blob/master/ROI/roioutput.png">
 
-**Video of the Output Images**[here](https://photos.app.goo.gl/EGuWSTebXgdqKd1S7)
+**Video of the Output Images** [here](https://photos.app.goo.gl/EGuWSTebXgdqKd1S7)
+## Prerequisites
+* [Python](#python)
+## Contributors
+* Atharva Alshi(#atharvaalshi)
+## Acknowledgements
+* SRA VJTI
